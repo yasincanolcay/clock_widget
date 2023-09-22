@@ -12,17 +12,17 @@
 <img src="https://github.com/yasincanolcay/clock_widget/blob/main/Screenshot%20(304).png"/>
 <br>
 # Live Widget
-- Select Theme
-- Light/Dark Mode
-- Set Border Radius
-- Set Opacity Values
-- On/Off Drag Drop
-- On/Off Border Radius
-- On/Off Sperator
-- Live Clock And Date
-- Customize Widget
-- Uses Very Low Ram
-- Low Dimension
+* Select Theme
+* Light/Dark Mode
+* Set Border Radius
+* Set Opacity Values
+* On/Off Drag Drop
+* On/Off Border Radius
+* On/Off Sperator
+* Live Clock And Date
+* Customize Widget
+* Uses Very Low Ram
+* Low Dimension
 # Create By Can Olcay
 # DevoneSoft
 # Thank You For Downloading
