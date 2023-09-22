@@ -11,7 +11,9 @@
 <br>
 <img src="https://github.com/yasincanolcay/clock_widget/blob/main/Screenshot%20(304).png"/>
 <br>
+
 # Live Widget
+
 * Select Theme
 * Light/Dark Mode
 * Set Border Radius
@@ -23,6 +25,9 @@
 * Customize Widget
 * Uses Very Low Ram
 * Low Dimension
+
 # Create By Can Olcay
+
 # DevoneSoft
+
 # Thank You For Downloading
